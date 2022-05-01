@@ -1,4 +1,4 @@
-package com.learning.HRAssociationApi;
+package com.learning.hrassociationapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
