@@ -1,13 +1,13 @@
-package com.learning.hrassociationapi;
+package com.learning.hrassociationwebapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HrAssociationApiApplication {
+public class HrAssociationWebApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HrAssociationApiApplication.class, args);
+		SpringApplication.run(HrAssociationWebApiApplication.class, args);
 	}
 
 }

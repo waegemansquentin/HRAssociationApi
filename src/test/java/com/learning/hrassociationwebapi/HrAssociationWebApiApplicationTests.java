@@ -1,10 +1,10 @@
-package com.learning.hrassociationapi;
+package com.learning.hrassociationwebapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HrAssociationApiApplicationTests {
+class HrAssociationWebApiApplicationTests {
 
 	@Test
 	void contextLoads() {
